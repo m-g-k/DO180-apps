@@ -1,0 +1,4 @@
+STEP 5: EXPOSE 80
+STEP 6: ADD /home/student/Desktop/myfile.zip /opt/ziptest
+Error: error building at STEP "ADD /home/student/Desktop/myfile.zip /opt/ziptest": no files found matching "/home/student/dockertest/home/student/Desktop/myfile.zip": no such file or directory
+
